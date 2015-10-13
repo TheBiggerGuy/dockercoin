@@ -1,0 +1,2 @@
+# dockercoin
+bitcoind for Docker
